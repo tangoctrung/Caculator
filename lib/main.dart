@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'parser.dart';
+import 'tinhtoan.dart';
 
 void main() => runApp(MyApp());
 
